@@ -1,1 +1,1 @@
-# M1-Quantum-mechanics
+# M1-Quantum-computing
